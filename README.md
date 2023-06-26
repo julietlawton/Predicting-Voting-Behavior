@@ -1,2 +1,2 @@
-# Predicting-Voting-Behavior
+# Predicting Voting Behavior
 The objective of this project was to analyze and predict voting frequency by examining demographic information and attitudes towards politics and voting from a representative sample of Americans who are eligible to vote. The dataset used is from the 2020 FiveThirtyEight story, Why Many Americans Don't Vote (https://github.com/fivethirtyeight/data/tree/master/non-voters). We aim to determine which factors have the biggest influence on voting behavior and model this relationship. 
